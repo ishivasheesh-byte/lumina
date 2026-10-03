@@ -18,7 +18,7 @@ export default function LegalPage() {
       <header className="border-b border-[#e3e5ec] bg-white">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-5 lg:px-8">
           <a href="/" className="flex items-center gap-3" aria-label="Back to Torkk home">
-            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/LOGO-tjDix3WcQf1OneFSPWsHo2ddCsrJz2.jpeg" alt="Torkk" className="size-11 rounded-xl object-cover" />
+            <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/LOGO-T91eFJ8KrteFXlOyDg2p1yw09CatDK.jpeg" alt="Torkk" className="size-11 rounded-xl object-cover" />
             <span className="font-black tracking-[-0.07em] text-xl">TORKK</span>
           </a>
           <a href="/" className="inline-flex items-center gap-2 text-sm font-semibold text-[#5d6375] hover:text-[#d946a1]"><ArrowLeft className="size-4" /> Back home</a>
